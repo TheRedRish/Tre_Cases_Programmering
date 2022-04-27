@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\runhan\\Documents\\Projekter P1 - Rune Hansen\\Projekt 1 C# Three Cases - Console App (.Net Framework)\\Tre_Cases_Programmering\\Tre_Cases_Porgrammering_somethign\\Tre_Cases_Porgrammering.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\runhan\\Documents\\Projekter P1 - Rune Hansen\\Projekt 1 C# Three Cases - Console App (.Net Framework)\\Tre_Cases_Programmering\\MyClassLibrary\\MyClassLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\runhan\\Documents\\Projekter P1 - Rune Hansen\\Projekt 1 C# Three Cases - Console App (.Net Framework)\\Tre_Cases_Programmering\\MyClassLibrary\\MyClassLibrary.csproj",
+        "projectName": "MyClassLibrary",
+        "projectPath": "C:\\Users\\runhan\\Documents\\Projekter P1 - Rune Hansen\\Projekt 1 C# Three Cases - Console App (.Net Framework)\\Tre_Cases_Programmering\\MyClassLibrary\\MyClassLibrary.csproj",
+        "packagesPath": "C:\\Users\\runhan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\runhan\\Documents\\Projekter P1 - Rune Hansen\\Projekt 1 C# Three Cases - Console App (.Net Framework)\\Tre_Cases_Programmering\\MyClassLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\runhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\runhan\\Documents\\Projekter P1 - Rune Hansen\\Projekt 1 C# Three Cases - Console App (.Net Framework)\\Tre_Cases_Programmering\\Tre_Cases_Porgrammering_somethign\\Tre_Cases_Porgrammering.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\runhan\\Documents\\Projekter P1 - Rune Hansen\\Projekt 1 C# Three Cases - Console App (.Net Framework)\\Tre_Cases_Programmering\\Tre_Cases_Porgrammering_somethign\\Tre_Cases_Porgrammering.csproj",
+        "projectName": "Tre_Cases_Porgrammering",
+        "projectPath": "C:\\Users\\runhan\\Documents\\Projekter P1 - Rune Hansen\\Projekt 1 C# Three Cases - Console App (.Net Framework)\\Tre_Cases_Programmering\\Tre_Cases_Porgrammering_somethign\\Tre_Cases_Porgrammering.csproj",
+        "packagesPath": "C:\\Users\\runhan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\runhan\\Documents\\Projekter P1 - Rune Hansen\\Projekt 1 C# Three Cases - Console App (.Net Framework)\\Tre_Cases_Programmering\\Tre_Cases_Porgrammering_somethign\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\runhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\runhan\\Documents\\Projekter P1 - Rune Hansen\\Projekt 1 C# Three Cases - Console App (.Net Framework)\\Tre_Cases_Programmering\\MyClassLibrary\\MyClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\runhan\\Documents\\Projekter P1 - Rune Hansen\\Projekt 1 C# Three Cases - Console App (.Net Framework)\\Tre_Cases_Programmering\\MyClassLibrary\\MyClassLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

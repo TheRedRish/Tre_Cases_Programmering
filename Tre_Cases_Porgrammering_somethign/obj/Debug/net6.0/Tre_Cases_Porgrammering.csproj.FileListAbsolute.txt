@@ -1,0 +1,36 @@
+C:\Users\runhan\source\repos\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\bin\Debug\net6.0\Tre_Cases_Porgrammering.exe
+C:\Users\runhan\source\repos\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\bin\Debug\net6.0\Tre_Cases_Porgrammering.deps.json
+C:\Users\runhan\source\repos\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\bin\Debug\net6.0\Tre_Cases_Porgrammering.runtimeconfig.json
+C:\Users\runhan\source\repos\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\bin\Debug\net6.0\Tre_Cases_Porgrammering.dll
+C:\Users\runhan\source\repos\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\bin\Debug\net6.0\ref\Tre_Cases_Porgrammering.dll
+C:\Users\runhan\source\repos\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\bin\Debug\net6.0\Tre_Cases_Porgrammering.pdb
+C:\Users\runhan\source\repos\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\bin\Debug\net6.0\MyClassLibrary.dll
+C:\Users\runhan\source\repos\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\bin\Debug\net6.0\MyClassLibrary.pdb
+C:\Users\runhan\source\repos\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\obj\Debug\net6.0\Tre_Cases_Porgrammering.csproj.AssemblyReference.cache
+C:\Users\runhan\source\repos\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\obj\Debug\net6.0\Tre_Cases_Porgrammering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\runhan\source\repos\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\obj\Debug\net6.0\Tre_Cases_Porgrammering.AssemblyInfoInputs.cache
+C:\Users\runhan\source\repos\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\obj\Debug\net6.0\Tre_Cases_Porgrammering.AssemblyInfo.cs
+C:\Users\runhan\source\repos\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\obj\Debug\net6.0\Tre_Cases_Porgrammering.csproj.CoreCompileInputs.cache
+C:\Users\runhan\source\repos\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\obj\Debug\net6.0\Tre_Cases_Porgrammering.csproj.CopyComplete
+C:\Users\runhan\source\repos\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\obj\Debug\net6.0\Tre_Cases_Porgrammering.dll
+C:\Users\runhan\source\repos\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\obj\Debug\net6.0\ref\Tre_Cases_Porgrammering.dll
+C:\Users\runhan\source\repos\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\obj\Debug\net6.0\Tre_Cases_Porgrammering.pdb
+C:\Users\runhan\source\repos\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\obj\Debug\net6.0\Tre_Cases_Porgrammering.genruntimeconfig.cache
+C:\Users\runhan\Documents\Projekter P1 - Rune Hansen\Projekt 1 C# Three Cases - Console App (.Net Framework)\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\bin\Debug\net6.0\Tre_Cases_Porgrammering.exe
+C:\Users\runhan\Documents\Projekter P1 - Rune Hansen\Projekt 1 C# Three Cases - Console App (.Net Framework)\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\bin\Debug\net6.0\Tre_Cases_Porgrammering.deps.json
+C:\Users\runhan\Documents\Projekter P1 - Rune Hansen\Projekt 1 C# Three Cases - Console App (.Net Framework)\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\bin\Debug\net6.0\Tre_Cases_Porgrammering.runtimeconfig.json
+C:\Users\runhan\Documents\Projekter P1 - Rune Hansen\Projekt 1 C# Three Cases - Console App (.Net Framework)\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\bin\Debug\net6.0\Tre_Cases_Porgrammering.dll
+C:\Users\runhan\Documents\Projekter P1 - Rune Hansen\Projekt 1 C# Three Cases - Console App (.Net Framework)\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\bin\Debug\net6.0\ref\Tre_Cases_Porgrammering.dll
+C:\Users\runhan\Documents\Projekter P1 - Rune Hansen\Projekt 1 C# Three Cases - Console App (.Net Framework)\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\bin\Debug\net6.0\Tre_Cases_Porgrammering.pdb
+C:\Users\runhan\Documents\Projekter P1 - Rune Hansen\Projekt 1 C# Three Cases - Console App (.Net Framework)\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\bin\Debug\net6.0\MyClassLibrary.dll
+C:\Users\runhan\Documents\Projekter P1 - Rune Hansen\Projekt 1 C# Three Cases - Console App (.Net Framework)\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\bin\Debug\net6.0\MyClassLibrary.pdb
+C:\Users\runhan\Documents\Projekter P1 - Rune Hansen\Projekt 1 C# Three Cases - Console App (.Net Framework)\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\obj\Debug\net6.0\Tre_Cases_Porgrammering.csproj.AssemblyReference.cache
+C:\Users\runhan\Documents\Projekter P1 - Rune Hansen\Projekt 1 C# Three Cases - Console App (.Net Framework)\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\obj\Debug\net6.0\Tre_Cases_Porgrammering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\runhan\Documents\Projekter P1 - Rune Hansen\Projekt 1 C# Three Cases - Console App (.Net Framework)\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\obj\Debug\net6.0\Tre_Cases_Porgrammering.AssemblyInfoInputs.cache
+C:\Users\runhan\Documents\Projekter P1 - Rune Hansen\Projekt 1 C# Three Cases - Console App (.Net Framework)\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\obj\Debug\net6.0\Tre_Cases_Porgrammering.AssemblyInfo.cs
+C:\Users\runhan\Documents\Projekter P1 - Rune Hansen\Projekt 1 C# Three Cases - Console App (.Net Framework)\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\obj\Debug\net6.0\Tre_Cases_Porgrammering.csproj.CoreCompileInputs.cache
+C:\Users\runhan\Documents\Projekter P1 - Rune Hansen\Projekt 1 C# Three Cases - Console App (.Net Framework)\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\obj\Debug\net6.0\Tre_Cases_Porgrammering.csproj.CopyComplete
+C:\Users\runhan\Documents\Projekter P1 - Rune Hansen\Projekt 1 C# Three Cases - Console App (.Net Framework)\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\obj\Debug\net6.0\Tre_Cases_Porgrammering.dll
+C:\Users\runhan\Documents\Projekter P1 - Rune Hansen\Projekt 1 C# Three Cases - Console App (.Net Framework)\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\obj\Debug\net6.0\ref\Tre_Cases_Porgrammering.dll
+C:\Users\runhan\Documents\Projekter P1 - Rune Hansen\Projekt 1 C# Three Cases - Console App (.Net Framework)\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\obj\Debug\net6.0\Tre_Cases_Porgrammering.pdb
+C:\Users\runhan\Documents\Projekter P1 - Rune Hansen\Projekt 1 C# Three Cases - Console App (.Net Framework)\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\obj\Debug\net6.0\Tre_Cases_Porgrammering.genruntimeconfig.cache

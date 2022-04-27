@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1deae1a2-ca76-4df5-aa39-a2758ccdf9fa": {
+      "ProjectGuid": "1deae1a2-ca76-4df5-aa39-a2758ccdf9fa",
+      "DisplayName": "Tre_Cases_Programmering",
+      "ColorIndex": 0
+    },
+    "d8929a9d-49b5-4ccc-b40a-6450af0ac582": {
+      "ProjectGuid": "d8929a9d-49b5-4ccc-b40a-6450af0ac582",
+      "DisplayName": "Tre_Cases_Porgrammering",
+      "ColorIndex": 1
+    },
+    "01a89ba1-78ce-4b84-9584-13bca4809dd2": {
+      "ProjectGuid": "01a89ba1-78ce-4b84-9584-13bca4809dd2",
+      "DisplayName": "MyClassLibrary",
+      "ColorIndex": 2
+    },
+    "45df927f-3022-4fa5-83e0-c30d6e531f28": {
+      "ProjectGuid": "45df927f-3022-4fa5-83e0-c30d6e531f28",
+      "DisplayName": "Dansekonkurrence",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tre_Cases_Porgrammering", "Tre_Cases_Porgrammering_somethign\Tre_Cases_Porgrammering.csproj", "{D8929A9D-49B5-4CCC-B40A-6450AF0AC582}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyClassLibrary", "MyClassLibrary\MyClassLibrary.csproj", "{01A89BA1-78CE-4B84-9584-13BCA4809DD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8929A9D-49B5-4CCC-B40A-6450AF0AC582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8929A9D-49B5-4CCC-B40A-6450AF0AC582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8929A9D-49B5-4CCC-B40A-6450AF0AC582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8929A9D-49B5-4CCC-B40A-6450AF0AC582}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01A89BA1-78CE-4B84-9584-13BCA4809DD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01A89BA1-78CE-4B84-9584-13BCA4809DD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01A89BA1-78CE-4B84-9584-13BCA4809DD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01A89BA1-78CE-4B84-9584-13BCA4809DD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E5848D5-F39E-429A-8B04-A0E503E8F560}
+	EndGlobalSection
+EndGlobal
