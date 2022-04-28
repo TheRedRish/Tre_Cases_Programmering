@@ -46,7 +46,7 @@ namespace MyClassLibrary
             return true;
         }
 
-        //Tjekker om password har store og små bogstaver ved at tjekke dem imod en database med alle danske store og små bogstaver
+        //Tjekker om password har store og små bogstaver ved at tjekke dem imod et mønster med alle danske store og små bogstaver
         public bool DoesSizeLettersPassword(string password)
         {
             Regex rgxUpper = new Regex("[^A-Å]");
