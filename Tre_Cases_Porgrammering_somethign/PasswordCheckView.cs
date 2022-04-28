@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using MyClassLibrary;
+﻿using MyClassLibrary;
 
 namespace Tre_Cases_Porgrammering
 {
@@ -71,7 +66,7 @@ namespace Tre_Cases_Porgrammering
                 }
 
             } while (!_passwordCheck.IsPasswordCorrect(username, password));
-            
+
             //hvis man er ude af loopet betyder det man har tastet rigtigt og kan komme ind.
             Console.SetCursorPosition(50, 19);
             Console.WriteLine("Tillykke Du er logget ind!");

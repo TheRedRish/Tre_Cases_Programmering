@@ -31,6 +31,6 @@ namespace Tre_Cases_Porgrammering
 
             Console.ReadKey();
         }
-        
+
     }
 }

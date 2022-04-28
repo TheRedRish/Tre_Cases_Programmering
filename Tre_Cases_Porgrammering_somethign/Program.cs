@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Tre_Cases_Porgrammering
+﻿namespace Tre_Cases_Porgrammering
 {
     internal class Program
     {

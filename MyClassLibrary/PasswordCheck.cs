@@ -1,17 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Text.RegularExpressions;
+﻿using System.Text.RegularExpressions;
 
 namespace MyClassLibrary
 {
     public class PasswordCheck
     {
-        private static int?[] MyMethod(int x, int y =20)
+        private static int?[] MyMethod(int x, int y = 20)
         {
-            return new int?[3] { 5+ x, y, null};
+            return new int?[3] { 5 + x, y, null };
         }
         //Tjekker om alle password kriterierne er opfyldt
         public bool DoesPasswordOverholdEveryCondition(string username, string password)
@@ -24,11 +19,11 @@ namespace MyClassLibrary
             }
             else return false;
         }
-        
+
         //Tjekker om password er det rigtige, altså det sidste loggede password i textfilen.
         public bool IsPasswordCorrect(string username, string password)
         {
-            string lastPassword="";
+            string lastPassword = "";
 
             if (!DoesFileExist(username))
                 return false;
