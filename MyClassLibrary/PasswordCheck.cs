@@ -4,10 +4,6 @@ namespace MyClassLibrary
 {
     public class PasswordCheck
     {
-        private static int?[] MyMethod(int x, int y = 20)
-        {
-            return new int?[3] { 5 + x, y, null };
-        }
         //Tjekker om alle password kriterierne er opfyldt
         public bool DoesPasswordOverholdEveryCondition(string username, string password)
         {
