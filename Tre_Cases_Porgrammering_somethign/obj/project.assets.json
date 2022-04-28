@@ -32,9 +32,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\runhan\\Documents\\Projekter P1 - Rune Hansen\\Projekt 1 C# Three Cases - Console App (.Net Framework)\\Tre_Cases_Programmering\\Tre_Cases_Porgrammering_somethign\\Tre_Cases_Porgrammering.csproj",
-      "projectName": "Tre_Cases_Porgrammering",
-      "projectPath": "C:\\Users\\runhan\\Documents\\Projekter P1 - Rune Hansen\\Projekt 1 C# Three Cases - Console App (.Net Framework)\\Tre_Cases_Programmering\\Tre_Cases_Porgrammering_somethign\\Tre_Cases_Porgrammering.csproj",
+      "projectUniqueName": "C:\\Users\\runhan\\Documents\\Projekter P1 - Rune Hansen\\Projekt 1 C# Three Cases - Console App (.Net Framework)\\Tre_Cases_Programmering\\Tre_Cases_Porgrammering_somethign\\Tre_Cases_Programmering.csproj",
+      "projectName": "Tre_Cases_Programmering",
+      "projectPath": "C:\\Users\\runhan\\Documents\\Projekter P1 - Rune Hansen\\Projekt 1 C# Three Cases - Console App (.Net Framework)\\Tre_Cases_Programmering\\Tre_Cases_Porgrammering_somethign\\Tre_Cases_Programmering.csproj",
       "packagesPath": "C:\\Users\\runhan\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\runhan\\Documents\\Projekter P1 - Rune Hansen\\Projekt 1 C# Three Cases - Console App (.Net Framework)\\Tre_Cases_Programmering\\Tre_Cases_Porgrammering_somethign\\obj\\",
       "projectStyle": "PackageReference",
