@@ -35,17 +35,17 @@ namespace Tre_Cases_Porgrammering
                         Console.ReadKey();
                     }
 
-                    Console.Write("Er du færdig med indtastning af navne? y/n: ");
-                    string doneCheck = Console.ReadLine();
-                    if (doneCheck.ToUpper() == "Y") succes = true;
-
                 } while (!succesInput);
 
-                //tilføjer indput til listerne
+                 //tilføjer indput til listerne
                 points.Add(pointsInput);
-
                 names.Add(nameInput);
 
+                //Kommer ud af loopet hvis der tastes Y.
+                Console.Write("Er du færdig med indtastning af navne? y/n: ");
+                string doneCheck = Console.ReadLine();
+                if (doneCheck.ToUpper() == "Y") succes = true;
+                
             } while (!succes);
 
             //Sender points og navn til NamesAndPointsTotal. Får en string tilbage med navne og total points
