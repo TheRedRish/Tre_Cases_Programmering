@@ -22,3 +22,15 @@ C:\Users\runhan\Documents\Projekter P1 - Rune Hansen\Projekt 1 C# Three Cases - 
 C:\Users\runhan\Documents\Projekter P1 - Rune Hansen\Projekt 1 C# Three Cases - Console App (.Net Framework)\Tre_Cases_Programmering\MyClassLibrary\obj\Debug\net6.0\MyClassLibrary.dll
 C:\Users\runhan\Documents\Projekter P1 - Rune Hansen\Projekt 1 C# Three Cases - Console App (.Net Framework)\Tre_Cases_Programmering\MyClassLibrary\obj\Debug\net6.0\ref\MyClassLibrary.dll
 C:\Users\runhan\Documents\Projekter P1 - Rune Hansen\Projekt 1 C# Three Cases - Console App (.Net Framework)\Tre_Cases_Programmering\MyClassLibrary\obj\Debug\net6.0\MyClassLibrary.pdb
+C:\Users\rune\OneDrive - TEC\Skoleoplæringscenter\Projects Home Copy\MyClassLibrary\bin\Debug\net6.0\MyClassLibrary.deps.json
+C:\Users\rune\OneDrive - TEC\Skoleoplæringscenter\Projects Home Copy\MyClassLibrary\bin\Debug\net6.0\MyClassLibrary.dll
+C:\Users\rune\OneDrive - TEC\Skoleoplæringscenter\Projects Home Copy\MyClassLibrary\bin\Debug\net6.0\MyClassLibrary.pdb
+C:\Users\rune\OneDrive - TEC\Skoleoplæringscenter\Projects Home Copy\MyClassLibrary\obj\Debug\net6.0\MyClassLibrary.csproj.AssemblyReference.cache
+C:\Users\rune\OneDrive - TEC\Skoleoplæringscenter\Projects Home Copy\MyClassLibrary\obj\Debug\net6.0\MyClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rune\OneDrive - TEC\Skoleoplæringscenter\Projects Home Copy\MyClassLibrary\obj\Debug\net6.0\MyClassLibrary.AssemblyInfoInputs.cache
+C:\Users\rune\OneDrive - TEC\Skoleoplæringscenter\Projects Home Copy\MyClassLibrary\obj\Debug\net6.0\MyClassLibrary.AssemblyInfo.cs
+C:\Users\rune\OneDrive - TEC\Skoleoplæringscenter\Projects Home Copy\MyClassLibrary\obj\Debug\net6.0\MyClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rune\OneDrive - TEC\Skoleoplæringscenter\Projects Home Copy\MyClassLibrary\obj\Debug\net6.0\MyClassLibrary.dll
+C:\Users\rune\OneDrive - TEC\Skoleoplæringscenter\Projects Home Copy\MyClassLibrary\obj\Debug\net6.0\refint\MyClassLibrary.dll
+C:\Users\rune\OneDrive - TEC\Skoleoplæringscenter\Projects Home Copy\MyClassLibrary\obj\Debug\net6.0\MyClassLibrary.pdb
+C:\Users\rune\OneDrive - TEC\Skoleoplæringscenter\Projects Home Copy\MyClassLibrary\obj\Debug\net6.0\ref\MyClassLibrary.dll

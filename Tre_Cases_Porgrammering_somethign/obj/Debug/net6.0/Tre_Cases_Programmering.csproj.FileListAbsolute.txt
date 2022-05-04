@@ -16,3 +16,21 @@ C:\Users\runhan\Documents\Projekter P1 - Rune Hansen\Projekt 1 C# Three Cases - 
 C:\Users\runhan\Documents\Projekter P1 - Rune Hansen\Projekt 1 C# Three Cases - Console App (.Net Framework)\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\obj\Debug\net6.0\ref\Tre_Cases_Programmering.dll
 C:\Users\runhan\Documents\Projekter P1 - Rune Hansen\Projekt 1 C# Three Cases - Console App (.Net Framework)\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\obj\Debug\net6.0\Tre_Cases_Programmering.pdb
 C:\Users\runhan\Documents\Projekter P1 - Rune Hansen\Projekt 1 C# Three Cases - Console App (.Net Framework)\Tre_Cases_Programmering\Tre_Cases_Porgrammering_somethign\obj\Debug\net6.0\Tre_Cases_Programmering.genruntimeconfig.cache
+C:\Users\rune\OneDrive - TEC\Skoleoplæringscenter\Projects Home Copy\Tre_Cases_Porgrammering_somethign\bin\Debug\net6.0\Tre_Cases_Programmering.exe
+C:\Users\rune\OneDrive - TEC\Skoleoplæringscenter\Projects Home Copy\Tre_Cases_Porgrammering_somethign\bin\Debug\net6.0\Tre_Cases_Programmering.deps.json
+C:\Users\rune\OneDrive - TEC\Skoleoplæringscenter\Projects Home Copy\Tre_Cases_Porgrammering_somethign\bin\Debug\net6.0\Tre_Cases_Programmering.runtimeconfig.json
+C:\Users\rune\OneDrive - TEC\Skoleoplæringscenter\Projects Home Copy\Tre_Cases_Porgrammering_somethign\bin\Debug\net6.0\Tre_Cases_Programmering.dll
+C:\Users\rune\OneDrive - TEC\Skoleoplæringscenter\Projects Home Copy\Tre_Cases_Porgrammering_somethign\bin\Debug\net6.0\Tre_Cases_Programmering.pdb
+C:\Users\rune\OneDrive - TEC\Skoleoplæringscenter\Projects Home Copy\Tre_Cases_Porgrammering_somethign\bin\Debug\net6.0\MyClassLibrary.dll
+C:\Users\rune\OneDrive - TEC\Skoleoplæringscenter\Projects Home Copy\Tre_Cases_Porgrammering_somethign\bin\Debug\net6.0\MyClassLibrary.pdb
+C:\Users\rune\OneDrive - TEC\Skoleoplæringscenter\Projects Home Copy\Tre_Cases_Porgrammering_somethign\obj\Debug\net6.0\Tre_Cases_Programmering.csproj.AssemblyReference.cache
+C:\Users\rune\OneDrive - TEC\Skoleoplæringscenter\Projects Home Copy\Tre_Cases_Porgrammering_somethign\obj\Debug\net6.0\Tre_Cases_Programmering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rune\OneDrive - TEC\Skoleoplæringscenter\Projects Home Copy\Tre_Cases_Porgrammering_somethign\obj\Debug\net6.0\Tre_Cases_Programmering.AssemblyInfoInputs.cache
+C:\Users\rune\OneDrive - TEC\Skoleoplæringscenter\Projects Home Copy\Tre_Cases_Porgrammering_somethign\obj\Debug\net6.0\Tre_Cases_Programmering.AssemblyInfo.cs
+C:\Users\rune\OneDrive - TEC\Skoleoplæringscenter\Projects Home Copy\Tre_Cases_Porgrammering_somethign\obj\Debug\net6.0\Tre_Cases_Programmering.csproj.CoreCompileInputs.cache
+C:\Users\rune\OneDrive - TEC\Skoleoplæringscenter\Projects Home Copy\Tre_Cases_Porgrammering_somethign\obj\Debug\net6.0\Tre_Cases_Programmering.csproj.CopyComplete
+C:\Users\rune\OneDrive - TEC\Skoleoplæringscenter\Projects Home Copy\Tre_Cases_Porgrammering_somethign\obj\Debug\net6.0\Tre_Cases_Programmering.dll
+C:\Users\rune\OneDrive - TEC\Skoleoplæringscenter\Projects Home Copy\Tre_Cases_Porgrammering_somethign\obj\Debug\net6.0\refint\Tre_Cases_Programmering.dll
+C:\Users\rune\OneDrive - TEC\Skoleoplæringscenter\Projects Home Copy\Tre_Cases_Porgrammering_somethign\obj\Debug\net6.0\Tre_Cases_Programmering.pdb
+C:\Users\rune\OneDrive - TEC\Skoleoplæringscenter\Projects Home Copy\Tre_Cases_Porgrammering_somethign\obj\Debug\net6.0\Tre_Cases_Programmering.genruntimeconfig.cache
+C:\Users\rune\OneDrive - TEC\Skoleoplæringscenter\Projects Home Copy\Tre_Cases_Porgrammering_somethign\obj\Debug\net6.0\ref\Tre_Cases_Programmering.dll

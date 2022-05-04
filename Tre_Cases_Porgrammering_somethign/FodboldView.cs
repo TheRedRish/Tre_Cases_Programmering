@@ -7,7 +7,7 @@ namespace Tre_Cases_Porgrammering
         // Nyt objekt fra Fodbold Klassen, behøver ikke blive defineret det er fra MyClassLibrary da der er skrevet "Using"
         Fodbold _fodbold = new Fodbold();
 
-        public FodboldView()
+        public void FodboldStartup()
         {
             string goal;
             bool succes;

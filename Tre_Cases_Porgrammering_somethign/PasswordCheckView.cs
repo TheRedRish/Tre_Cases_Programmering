@@ -6,7 +6,7 @@ namespace Tre_Cases_Porgrammering
     {
         PasswordCheck _passwordCheck = new PasswordCheck();
 
-        public PasswordCheckView()
+        public void PasswordStartup()
         {
             string choiceStart;
 
